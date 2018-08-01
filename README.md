@@ -7,7 +7,7 @@ This lesson is designed for late high school/early college students. It was give
 This lesson includes:
 
 * A reading on free and open source software that students read in-class prior to the lesson. It's based [on this article](https://opensource.com/resources/what-open-source).
-* The Markdown for the slides used.
+* The Markdown for the slides used. I like Hacker Slides.
 * The rough lesson plan, with timings.
 
 ### Tips
